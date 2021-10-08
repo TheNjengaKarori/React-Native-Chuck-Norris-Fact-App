@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "jokes",
-    "slug": "jokes",
+    "name": "Chuck Norris Facts",
+    "slug": "chuck-norris-facts",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "App that provides fun facts about Chuck Norris",
+    "githubUrl": "https://github.com/Njengak11/React-Native-Chuck-Norris-Fact-App"
   }
 }
